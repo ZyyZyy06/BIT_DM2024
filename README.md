@@ -14,4 +14,19 @@
 
 [[ZyyZyy06/BIT_DM2024: 北京理工大学2024研究生课程-数据挖掘-作业代码 (github.com)](https://github.com/ZyyZyy06/BIT_DM2024)]
 
-原代码见src.ipynb
+原代码见work1/src.ipynb
+
+
+
+## 互评作业2-频繁模式与关联规则挖掘
+
+采用数据集：
+
+- SNAP(Stanford Large Network Dataset Collection): http://snap.stanford.edu/data/index.html
+- Microsoft 资讯推荐: https://learn.microsoft.com/zh-cn/azure/open-datasets/dataset-microsoft-news?tabs=azureml-opendatasets
+
+仓库地址：
+
+[[ZyyZyy06/BIT_DM2024: 北京理工大学2024研究生课程-数据挖掘-作业代码 (github.com)](https://github.com/ZyyZyy06/BIT_DM2024)]
+
+原代码见work2/src.ipynb
